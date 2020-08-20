@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/andrea2025/Blog-post-assignment#readme",
   "dependencies": {
-    "bcrypt": "^3.0.7",
+    "bcrypt": "^5.0.0",
     "dotenv": "^8.2.0",
     "jsonwebtoken": "^8.5.1",
     "mongoose": "^5.7.12"
